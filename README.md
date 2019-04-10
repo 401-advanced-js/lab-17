@@ -6,9 +6,8 @@
 ### Spencer Hirata
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo]()
 * 
-* [back-end](https://vast-fjord-24189.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](https://vast-fjord-24189.herokuapp.com/docs) (All assignments)
@@ -17,11 +16,6 @@
 #### `modulename.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
